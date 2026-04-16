@@ -4,6 +4,18 @@
         <title>Buffer</title>
         <item>
             <title>1.2.0</title>
+            <pubDate>Thu, 16 Apr 2026 14:55:17 +1000</pubDate>
+            <link>https://github.com/wattsjs/buffer</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer-1.2.0-2.zip" length="35495509" type="application/octet-stream" sparkle:edSignature="ELqEdI/WNeudMq3XtShU2XUoa+zyG+izReP5qpuzsddr64YewwGk3haPU3tq5de7NgT3Puea98lE5MLG7p63Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer2-1.delta" sparkle:deltaFrom="1" length="69498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q3C6uKAIIbUC886mvqUleh0Nub1F+ne9xukt6dO/1GqAKBwTmUDOpLzgYhWUgX1XjK82HH91bFY32sgZX9m+Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.2.0</title>
             <pubDate>Thu, 16 Apr 2026 11:14:31 +1000</pubDate>
             <link>https://github.com/wattsjs/buffer</link>
             <sparkle:version>1</sparkle:version>
