@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Buffer</title>
+        <item>
+            <title>1.2.0</title>
+            <pubDate>Thu, 16 Apr 2026 11:14:31 +1000</pubDate>
+            <link>https://github.com/wattsjs/buffer</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer-1.2.0-1.zip" length="35280254" type="application/octet-stream" sparkle:edSignature="RHBsh11YsPPUdW4fYtqLWYp5L8YJQGI4IeYKdW7rEf7UKayGzO1Jw/zXe+auFWI8KV/DToiGoErq5xk6oGb8Cg=="/>
+        </item>
+    </channel>
+</rss>
