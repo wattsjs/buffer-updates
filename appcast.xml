@@ -3,6 +3,22 @@
     <channel>
         <title>Buffer</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Tue, 05 May 2026 13:59:20 +1000</pubDate>
+            <link>https://github.com/wattsjs/buffer</link>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer-2.0.1-22.zip" length="36310015" type="application/octet-stream" sparkle:edSignature="MqYpOA28cTmV63M+Rst/u1h/uAE4bErTsCwrWKyUmmH4ciY+qvJWuEn8ihM+foqCI51HLE84GIa92EXHAo5/Dg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer22-21.delta" sparkle:deltaFrom="21" length="1343774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3FwT0zUZT+r3OW6wnJSRnLu8DMBWSdp/BNfR+ESmFFDeWQ4KOI7oCCKUL5hlGzzG64/A7bZ7U0kbnDcwx74aCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer22-20.delta" sparkle:deltaFrom="20" length="2048834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EqzJpqQzPPKV9P2qTj2y1F7QuuvXyBn6RNutVG0OLCr1G4gSoc6EjwANLuwRI2LqlgCId9dH1UV/vDI0V0jZBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer22-18.delta" sparkle:deltaFrom="18" length="2108670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AvCVW6+OgvZFKkaOjcdqeLtv/xWXhRbi7gzJ8wbA0QsUZE0QTqvlYMa/msuJs5XC0yldk/HhvnAund0OMInkDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer22-17.delta" sparkle:deltaFrom="17" length="2229782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qgqq2jnvtozj9uHe9ekccfIxwZzIt/2lAU31tMNQnyjAWsly3AHlGq2sEoOeWvWDeFil13zWovLnJLPbHLv4Bw=="/>
+                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer22-16.delta" sparkle:deltaFrom="16" length="2266042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+VX0mWfbtJHuJIV6oHygta81GIYRe5PVf9+svKjS7nVLWRxAb46dwqorgpTgWGsGumkjljx8yzDZVJ3NPw1pAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.0.0</title>
             <pubDate>Tue, 05 May 2026 12:30:26 +1000</pubDate>
             <link>https://github.com/wattsjs/buffer</link>
@@ -32,22 +48,6 @@
                 <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer20-16.delta" sparkle:deltaFrom="16" length="2170198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T8t9efXQgYQvrwQfMzDZN84RtKchS4+Bxa/wu24sXHaD2cpDeag6FQcxvV6hhiJ1jiJcQs6RgrOrI1crtLW/Ag=="/>
                 <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer20-15.delta" sparkle:deltaFrom="15" length="2194622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hemXXB0JKY9mRMGncVafW1h7pUiOfF2v7Nlu57l9ZWWjMu6yjGqQCm0j43p85Z2SOZca9TSpK6mxMBzKPOSDAA=="/>
                 <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer20-14.delta" sparkle:deltaFrom="14" length="2201462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uYbOSd+U5Y7lGNScYJs9jhWa/OtOMYtcF2cDEBtbuVkBY8rEYYkRkSJuqA5tXw9LiXNMSO7p++H1rgzeJ1NsDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.5.2</title>
-            <pubDate>Sun, 03 May 2026 00:10:12 +1000</pubDate>
-            <link>https://github.com/wattsjs/buffer</link>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer-1.5.2-18.zip" length="36298249" type="application/octet-stream" sparkle:edSignature="qjTt4w/YcBMcxTVsdmpJFlUdT6XdcQFl9tbd73cSvFZDT3jzCBtFQ6Apxjozs2XkXAdDZ8P9G2CY3GFIaWVNBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer18-17.delta" sparkle:deltaFrom="17" length="2057850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OVBvs2KU/GCWdsyYZhl+egiyZcofBcAkgGW1HKBaQdUkyAX7nJ/ygScKB12QIx0cG1wIBiqkSjEyXvhc5kA1BA=="/>
-                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer18-16.delta" sparkle:deltaFrom="16" length="2167258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q5I+Akr7FSzG4PmUSQguIfqtLvY70cGPY8SoL7KBkmqdeMsU97hf+K3VE7PFxGdszXrDUJ8poFBMYJlYVgxwCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer18-15.delta" sparkle:deltaFrom="15" length="2218782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q5HXpANFc/5rev0MjgTgz/p9ifuJQOWxrLUMYLbjw2sLHxXhH7nh26k7sjUlv9Wc5rHgxhGuJEuSjYveaaizAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer18-14.delta" sparkle:deltaFrom="14" length="2209634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="44QM8kmlM3dxRlIDGFaMi9SBq22l4YVWO1c6cDpq0E1imHXJIueUIc/cuGFjbbwhlavbsFrqrjn+qJ6UL7FsDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/wattsjs/buffer-updates/main/Buffer18-13.delta" sparkle:deltaFrom="13" length="2210994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YY+Hxf0kQkAatPVdBDLgp1Gm3BAPszObzz8jdYEH5U52FiXZIjJ/F/suzbNGsrGPp6rLsjujzsGGkszUXObABw=="/>
             </sparkle:deltas>
         </item>
     </channel>
